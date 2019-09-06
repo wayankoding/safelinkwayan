@@ -1,0 +1,2 @@
+# safelinkwayan
+Digunakan Untuk Safelink
